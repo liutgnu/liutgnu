@@ -1,5 +1,7 @@
 ![Github stats](https://github-readme-stats.vercel.app/api?username=liutgnu&theme=cobalt&show_icons=true&count_private=true)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liutgnu&layout=compact)
+
 Co-maintainer of crash-utility: https://github.com/crash-utility/crash
 
 <!--
