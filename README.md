@@ -4,6 +4,8 @@
 
 Co-maintainer of crash-utility: https://github.com/crash-utility/crash
 
+Linux kernel patches: https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/log/?qt=grep&q=ltao@
+
 <!--
 **liutgnu/liutgnu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
